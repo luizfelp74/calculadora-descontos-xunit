@@ -1,0 +1,15 @@
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.exe
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.deps.json
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.runtimeconfig.json
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.dll
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\bin\Debug\net10.0\CalculadoraDescontos.App.pdb
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.AssemblyInfoInputs.cache
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.AssemblyInfo.cs
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.csproj.CoreCompileInputs.cache
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.sourcelink.json
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.dll
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\refint\CalculadoraDescontos.App.dll
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.pdb
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\CalculadoraDescontos.App.genruntimeconfig.cache
+C:\Users\luizf\calculadora-descontos-xunit\CalculadoraDescontos.App\obj\Debug\net10.0\ref\CalculadoraDescontos.App.dll
